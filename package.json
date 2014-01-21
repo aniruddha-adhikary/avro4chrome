@@ -1,0 +1,14 @@
+{
+  "name": "avrophonetic",
+  "title": "Avro Phonetic",
+  "id": "jid1-86AADNY2TiWCeA",
+  "description": "Type Bangla in Avro Phonetic scheme.",
+  "author": "Aniruddha Adhikary <aniruddha@adhikary.net>",
+  "contributors": ["Mehdi Hasan Khan", "Rifat Nabi", "Sarim Khan"],
+  "license": "MPL 2.0",
+  "version": "0.2",
+  "homepage": "http://www.adhikary.net/",
+  "permissions": { "private-browsing": true },
+  "icon": "data/img/icon.png",
+  "icon64": "data/img/icon64.png"
+}
